@@ -1,7 +1,7 @@
 # azure_vpc
 Creation of Azure VPC Using Terraform Module
 
-![alt text](https://github.com/cultofcloud/azure_vpc/Images/Azure_VPC.png)
+![alt text](https://github.com/cultofcloud/azure_vpc/blob/master/Images/Azure_VPC.png)
 
 Below are the configuration considered for creating the VNET in Azure
 
