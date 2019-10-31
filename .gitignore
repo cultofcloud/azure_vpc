@@ -1,0 +1,7 @@
+# Ignore tfstate
+.tfstate
+.tfstate.*
+.terraform
+
+# Ignore Idea files
+../../.idea
